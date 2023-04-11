@@ -1,0 +1,1 @@
+["ALB", "ALP", "ALT", "AST", "BIL", "CHE", "CREA", "GGT", "PROT"]
