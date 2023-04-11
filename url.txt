@@ -1,0 +1,2 @@
+https://huggingface.co/spaces/fadyabila/Hepatitis_C_Prediction
+https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset?datasetId=1051216&sortBy=voteCount
